@@ -2,6 +2,10 @@
 
 WAD2 Lab 10 Team C group project - Glasgow Shop Ratings.
 
+## Demo
+
+[![Demo](https://img.youtube.com/vi/sAgTy2Ru12E/0.jpg)](https://www.youtube.com/watch?v=sAgTy2Ru12E)
+
 ## Setup
 
 This project runs on Python 3.9 using the libraries listed in `requirements.txt`.
